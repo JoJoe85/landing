@@ -1,0 +1,21 @@
+.header {
+
+    display:flex;
+    align-items: center;
+    gap: 16px;
+    background-color: #1F2937;
+    color: white;
+    padding-left: 128px;
+    padding-right: 128px;
+}
+
+a {
+text-decoration: none;
+color: white;
+
+}
+
+.link {
+    margin-left: auto;
+}
+
